@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Koenaaaaaa
-- 👀 I’m interested in ...data science, machine learning and algorithmic trading.
-- 🌱 I’m currently learning ...data science
-- 💞️ I’m looking to collaborate on ...quantitative trading and data science projects.
-- 📫 How to reach me ...@tumidakxxl@gmail.com
+- 👀 I’m interested in ...data science, machine learning and web development.
+- 💞️ I’m looking to collaborate on ...data science projects.
+- 📫 How to reach me ...@tumelo.mokoena474@gmail.com
 
 
 <!---
